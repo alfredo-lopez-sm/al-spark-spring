@@ -1,0 +1,5 @@
+
+spark:
+  app:
+    name: Spring & Spark word count application
+  master: local[1]
